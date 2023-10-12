@@ -1,1 +1,1 @@
-# This repository holds various personal projects now and in the future for others to see/use/commit on.
+# I Simulated the oscillating flight paths of a dragonfly in the web application OpenProcessing. This code requires an IDE or application that can run Processing.js.
